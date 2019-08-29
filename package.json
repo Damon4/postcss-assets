@@ -33,7 +33,7 @@
   "dependencies": {
     "assets": "^3.0.0",
     "bluebird": "^3.5.0",
-    "postcss": "^6.0.10",
+    "postcss": "^7.0.0",
     "postcss-functions": "^3.0.0"
   },
   "devDependencies": {
